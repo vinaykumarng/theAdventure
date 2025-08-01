@@ -34,7 +34,7 @@ A simple Streamlit-based web app that generates personalized stories using a loc
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/story-teller-app.git
+git clone https://github.com/vinaykumarng/story-teller-app.git
 cd story-teller-app
 ```
 2. **Create Virtual Environment**
@@ -80,7 +80,6 @@ streamlit run app.py
 🔗 [GitHub ](https://github.com/vinaykumarng)  
 🔗 [LinkedIn ](https://www.linkedin.com/in/vinay-kumar-ng-22aa97303/)
 
----
 
 
 

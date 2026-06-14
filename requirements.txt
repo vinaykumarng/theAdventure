@@ -1,7 +1,5 @@
 streamlit
-huggingface_hub
-transformers
-langchain
-langchain_community
-sentence-transformers
-ctransformers
+python-dotenv
+langchain-core
+langchain-groq
+langchain-ollama
